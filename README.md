@@ -14,3 +14,8 @@ Implemented Convoluted Neural Network for the classification of fashion mnist da
 
 Achieved an accuracy of 91% on test data and 97.7 % on training data after 50 epocs.
 
+### Below is the predicted result for 25 samples
+
+![Capture](https://user-images.githubusercontent.com/37111089/84564832-5dd7d100-ad82-11ea-979e-d09b2210e2f0.JPG)
+
+
