@@ -18,4 +18,9 @@ Achieved an accuracy of 91% on test data and 97.7 % on training data after 50 ep
 
 ![Capture](https://user-images.githubusercontent.com/37111089/84564832-5dd7d100-ad82-11ea-979e-d09b2210e2f0.JPG)
 
+### Here is the Classification Report
+
+![image](https://user-images.githubusercontent.com/37111089/84564887-d5a5fb80-ad82-11ea-895f-19ff783caf59.png)
+
+
 
