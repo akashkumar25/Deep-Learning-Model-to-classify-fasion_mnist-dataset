@@ -12,7 +12,7 @@ Implemented Convoluted Neural Network for the classification of fashion mnist da
 - 8 Bag
 - 9 Ankle boot
 
-Achieved an accuracy of 91% on test data and 97.7 % on training data after 50 epocs.
+Achieved an accuracy of 91% on test data and 97.7 % on training data after 50 epochs.
 
 ### Below is the predicted result for 25 samples
 
